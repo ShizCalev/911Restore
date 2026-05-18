@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="911Restore/911Restore.vcxproj" Id="e43fc175-e9d9-48e1-b61f-72f97fe75fa3" />
+</Solution>
